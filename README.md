@@ -19,3 +19,4 @@ tense conversion (continuous present - simple present): https://pabasar.medium.c
 #### GPT VS LLAMA VS BART https://medium.com/@reyhaneh.esmailbeigi/bert-gpt-and-bart-a-short-comparison-5d6a57175fca 
 #### Grammer correction - https://github.com/PrithivirajDamodaran/Gramformer
 #### 
+![image](https://github.com/KeerthanaG23/Natural-Language-Processing-Ref/assets/116378322/3acadb3b-c4b4-4538-a28d-0b46a1cd47fb)
