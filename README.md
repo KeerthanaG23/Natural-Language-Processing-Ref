@@ -15,4 +15,7 @@ tense conversion (continuous present - simple present): https://pabasar.medium.c
 #### https://ai.google.dev/tutorials/python_quickstart
 #### Ref -  https://www.youtube.com/watch?v=NLvQ5oj-Sg4
 #### Q&A - Llama fine tune - https://colab.research.google.com/drive/10X-R4nIDPc_P9egafd4wnGK8s2nEy7Ra?usp=sharing
-
+#### https://jalammar.github.io/illustrated-bert/
+#### GPT VS LLAMA VS BART https://medium.com/@reyhaneh.esmailbeigi/bert-gpt-and-bart-a-short-comparison-5d6a57175fca 
+#### Grammer correction - https://github.com/PrithivirajDamodaran/Gramformer
+#### 
