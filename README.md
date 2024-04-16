@@ -24,3 +24,4 @@ tense conversion (continuous present - simple present): https://pabasar.medium.c
 #### https://colab.research.google.com/drive/1xyaAMav_gTo_KvpHrO05zWFhmUaILfEd?usp=sharing#scrollTo=fsFWSTQeJnrn
 
 #### LSTM - https://kgptalkie.com/text-generation-using-tensorflow-keras-and-lstm/
+#### https://github.com/entbappy/NLP-Projects-Notebooks/blob/master/En_Hi_language_translation.ipynb
