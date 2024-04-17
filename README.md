@@ -50,3 +50,4 @@ print(' '.join(str(e) for e in s))
 https://www.phind.com/search?cache=i5ry16qms58dq70cibykva7l
 https://huggingface.co/docs/transformers/en/model_doc/bert
 ### Text reordering - https://github.com/gioelecrispo/text-reorderer/blob/master/text-reorderer.ipynb
+### https://ai.stackexchange.com/questions/11824/how-do-i-create-syntactically-correct-sentences-given-several-words
