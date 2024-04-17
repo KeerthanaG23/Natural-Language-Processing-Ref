@@ -26,3 +26,26 @@ tense conversion (continuous present - simple present): https://pabasar.medium.c
 #### LSTM - https://kgptalkie.com/text-generation-using-tensorflow-keras-and-lstm/
 #### https://github.com/entbappy/NLP-Projects-Notebooks/blob/master/En_Hi_language_translation.ipynb
 #### Active to passive - https://github.com/rishiagarwal2000/Active-to-Passive-Voice
+Code:
+
+import spacy
+nlp = spacy.load('en_core_web_sm')
+doc = nlp("They make cars in Detroit")
+s = list(doc)
+tmp,temp,sub = "","",-1
+for i in doc:
+    if i.pos_ == 'VERB':
+        s[i.i] = i
+    elif i.dep_ == 'nsubj':
+        sub = i.i
+        temp = i
+    elif i.dep_ == 'dobj':
+        tmp = i.text.capitalize()
+        s[i.i] = temp
+        s.insert(i.i,"by")
+
+s[sub] = tmp
+print(' '.join(str(e) for e in s))
+
+https://www.phind.com/search?cache=i5ry16qms58dq70cibykva7l
+https://huggingface.co/docs/transformers/en/model_doc/bert
