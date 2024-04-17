@@ -25,3 +25,4 @@ tense conversion (continuous present - simple present): https://pabasar.medium.c
 
 #### LSTM - https://kgptalkie.com/text-generation-using-tensorflow-keras-and-lstm/
 #### https://github.com/entbappy/NLP-Projects-Notebooks/blob/master/En_Hi_language_translation.ipynb
+#### Active to passive - https://github.com/rishiagarwal2000/Active-to-Passive-Voice
